@@ -1,0 +1,11 @@
+{
+    "uuid": "pw-rate-switcher@kap",
+    "name": "PipeWire Rate Switcher",
+    "description": "Shows the active PipeWire clock rate and all audio streams with volume mixer controls. Click to mute, adjust volume, or force a sample rate.",
+    "icon": "audio-card",
+    "max-instances": 1,
+    "version": "1.0",
+    "website": "https://github.com/kap/pw-rate-switcher",
+    "contributors": "kap",
+    "comment": "Panel applet for PipeWire Rate Switcher — requires pw-metadata, pactl"
+}
